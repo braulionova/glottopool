@@ -1,0 +1,11 @@
+{
+    "primer_numero": "01",
+    "segundo_numero": "04",
+    "tercer_numero": "08",
+    "cuarto_numero": "12",
+    "quinto_numero": "18",
+    "sexto_numero": "22",
+    "lotto_mas": "03",
+    "super_mas": "07",
+    "fecha_sorteo": "2019-12-21"
+}
